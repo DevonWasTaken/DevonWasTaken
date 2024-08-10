@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevonWasTaken
 - 👀 I’m interested in web development & music.
-- 🌱 I’m currently learning JS/HTML/CSS.
+- 🌱 I’m currently learning JS/HTML/CSS & C++.
 - 📫 Discord: _devonj
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I firststarted coding by making minecraft server plugins.
